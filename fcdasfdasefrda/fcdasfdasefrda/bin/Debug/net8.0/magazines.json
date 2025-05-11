@@ -1,0 +1,40 @@
+[
+  {
+    "Title": "s",
+    "Items": [
+      {
+        "Name": "f",
+        "Weight": 20.002,
+        "GoofyLevel": 1,
+        "IsExplotano": false
+      },
+      {
+        "Name": "Goofy Augh phone",
+        "Weight": 2.52,
+        "GoofyLevel": 8,
+        "IsExplotano": true
+      }
+    ],
+    "MaxItems": 1000,
+    "MaxWeight": 1000
+  },
+  {
+    "Title": "a",
+    "Items": [
+      {
+        "Name": "goofy augh car",
+        "Weight": 50.25,
+        "GoofyLevel": 8,
+        "IsExplotano": false
+      },
+      {
+        "Name": "goofy augh phone",
+        "Weight": 2,
+        "GoofyLevel": 9,
+        "IsExplotano": true
+      }
+    ],
+    "MaxItems": 4202137,
+    "MaxWeight": 4202137
+  }
+]

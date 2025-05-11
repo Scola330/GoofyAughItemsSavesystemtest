@@ -1,0 +1,14 @@
+C:\Users\goldM\source\repos\fcdasfdasefrda\fcdasfdasefrda\bin\Debug\net8.0\fcdasfdasefrda.exe
+C:\Users\goldM\source\repos\fcdasfdasefrda\fcdasfdasefrda\bin\Debug\net8.0\fcdasfdasefrda.deps.json
+C:\Users\goldM\source\repos\fcdasfdasefrda\fcdasfdasefrda\bin\Debug\net8.0\fcdasfdasefrda.runtimeconfig.json
+C:\Users\goldM\source\repos\fcdasfdasefrda\fcdasfdasefrda\bin\Debug\net8.0\fcdasfdasefrda.dll
+C:\Users\goldM\source\repos\fcdasfdasefrda\fcdasfdasefrda\bin\Debug\net8.0\fcdasfdasefrda.pdb
+C:\Users\goldM\source\repos\fcdasfdasefrda\fcdasfdasefrda\obj\Debug\net8.0\fcdasfdasefrda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goldM\source\repos\fcdasfdasefrda\fcdasfdasefrda\obj\Debug\net8.0\fcdasfdasefrda.AssemblyInfoInputs.cache
+C:\Users\goldM\source\repos\fcdasfdasefrda\fcdasfdasefrda\obj\Debug\net8.0\fcdasfdasefrda.AssemblyInfo.cs
+C:\Users\goldM\source\repos\fcdasfdasefrda\fcdasfdasefrda\obj\Debug\net8.0\fcdasfdasefrda.csproj.CoreCompileInputs.cache
+C:\Users\goldM\source\repos\fcdasfdasefrda\fcdasfdasefrda\obj\Debug\net8.0\fcdasfdasefrda.dll
+C:\Users\goldM\source\repos\fcdasfdasefrda\fcdasfdasefrda\obj\Debug\net8.0\refint\fcdasfdasefrda.dll
+C:\Users\goldM\source\repos\fcdasfdasefrda\fcdasfdasefrda\obj\Debug\net8.0\fcdasfdasefrda.pdb
+C:\Users\goldM\source\repos\fcdasfdasefrda\fcdasfdasefrda\obj\Debug\net8.0\fcdasfdasefrda.genruntimeconfig.cache
+C:\Users\goldM\source\repos\fcdasfdasefrda\fcdasfdasefrda\obj\Debug\net8.0\ref\fcdasfdasefrda.dll
